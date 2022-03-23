@@ -102,22 +102,7 @@ class ResponsiveScreen extends StatelessWidget {
       ),
       body: Container(color: Colors.red[300]),
 
-      //color: Colors.redAccent,
 
-      //  body: Container(
-      // child: ListView(
-      //children: [
-      // Padding(
-      //   padding: const EdgeInsets.all(20.0),
-      //   child: Text('FIRST ELEMENT'),
-      //  ),
-      //  Text('SECOND ELEMENT'),
-      //  Text('THIRD ELEMENT'),
-      //  Text('FORTH ELEMENT'),
-      //  Text('FIFTHE ELEMENT')
-      //  ],
-      // ),
-      // )
     );
   }
 }
@@ -129,22 +114,4 @@ class ResponsiveScreen extends StatelessWidget {
 
 
 
-
-//color: Colors.redAccent,
-
-
-      //  body: Container(
-      // child: ListView(
-      //children: [
-      // Padding(
-      //   padding: const EdgeInsets.all(20.0),
-      //   child: Text('FIRST ELEMENT'),
-      //  ),
-      //  Text('SECOND ELEMENT'),
-      //  Text('THIRD ELEMENT'),
-      //  Text('FORTH ELEMENT'),
-      //  Text('FIFTHE ELEMENT')
-      //  ],
-      // ),
-      // )
 
